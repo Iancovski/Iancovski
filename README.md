@@ -1,6 +1,6 @@
 <div align="center" style="display: inline-block">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iancovski&theme=dark&show_icons=true&hide_border=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iancovski&theme=dark&show_icons=true&hide_border=true&layout=compact">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iancovski&theme=tokyonight&show_icons=true&hide_border=false&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iancovski&theme=tokyonight&show_icons=true&hide_border=false&layout=compact">
 </div>
 
 <!--![Iancovski's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Iancovski&theme=radical&hide_border=true)-->
