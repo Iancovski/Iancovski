@@ -1,3 +1,7 @@
+<div align="center"><h3>✨ Functionality, Reliability, Usability, Efficiency, Maintainability, Portability ✨<h3></div>
+
+<br>
+
 <div align="center" style="display: inline-block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iancovski&theme=tokyonight&show_icons=true&hide_border=false&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iancovski&theme=tokyonight&show_icons=true&hide_border=false&layout=compact">
