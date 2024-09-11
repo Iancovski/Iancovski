@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>✨ Functionality, Reliability, Usability, Efficiency, Maintainability, Portability ✨<h3> 
+  <h3>✨ Efficiency, simplicity, reliability, maintainability ✨<h3> 
     
   <h5>My objective is not just to write code, but to create solutions in the best way possible,<br>always following the development good pratices and project patterns.</h5>
   
